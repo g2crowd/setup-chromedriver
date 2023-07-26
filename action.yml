@@ -1,6 +1,6 @@
 name: 'setup-chromedriver'
 description: 'Setup chromedriver'
-author: 'nanasess'
+author: 'tcarac'
 inputs:
   chromedriver-version:
     description: 'The chromedriver version to install'
